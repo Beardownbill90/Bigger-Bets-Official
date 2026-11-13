@@ -1,9 +1,0 @@
-BIGGER BETS — BINGO FIX + QUICK TUTORIAL
-
-1. Unzip this download.
-2. Open the Bigger-Bets folder and upload ALL its contents to the same GitHub folder that currently holds index.html. Replace existing files; do not upload only the ZIP.
-3. Commit the files and wait for GitHub Pages to finish updating, then reload your game.
-
-Bingo now saves in your current browser without a separate sign-in/server. New cards use game winners and total-score challenges within 48 hours, with 25 unique squares even when only three upcoming games are available. All 25 must hit. Existing cards and wallet progress stay saved. Live sports feeds still require an internet connection; failed loads can be retried.
-
-Includes the skippable 1–2 minute tutorial. Replay with Tutorial at the top.
